@@ -34,7 +34,7 @@
             "Key": "04e8900f-f88c-4b4a-b11b-4b0cc6043ae7",
             "Value": {
                 "id": "816fae37-bf5d-4438-9341-da2e62a23536",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\rm_menu\\rm_menu.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -44,6 +44,14 @@
                 "id": "c321fe51-a17c-4701-954a-7b245109489c",
                 "resourcePath": "views\\103a6b70-c229-4504-a8c7-ad1aced7f609.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "1e147d1e-8fc8-4b52-acb5-da7022677591",
+            "Value": {
+                "id": "07fb1bf5-90e8-4930-a454-dc64428a0019",
+                "resourcePath": "scripts\\scr_doNothing\\scr_doNothing.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -95,6 +103,14 @@
             }
         },
         {
+            "Key": "6ee50678-7860-43b6-be23-4e2bc8a456b5",
+            "Value": {
+                "id": "a0069c27-db2d-4bca-9699-6c8f6160a552",
+                "resourcePath": "sprites\\spr_button\\spr_button.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "747e1963-4b53-45c4-b2c0-11d1d0695917",
             "Value": {
                 "id": "9cd4a32c-c2dd-4754-bf1f-878da31f09f9",
@@ -132,6 +148,14 @@
                 "id": "41ef013a-abce-43f1-b92e-8a8c1c5c8df9",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "abd0a35d-1d75-4f64-9d7b-499f5f6b55ec",
+            "Value": {
+                "id": "bcb28da5-59ce-47c1-af73-20f4ec2a749f",
+                "resourcePath": "objects\\obj_button\\obj_button.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -192,7 +216,7 @@
         }
     ],
     "script_order": [
-        
+        "1e147d1e-8fc8-4b52-acb5-da7022677591"
     ],
     "tutorial": ""
 }
