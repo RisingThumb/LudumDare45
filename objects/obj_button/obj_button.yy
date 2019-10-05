@@ -5,16 +5,6 @@
     "name": "obj_button",
     "eventList": [
         {
-            "id": "b5e598cb-31e4-4e06-b12f-85b55c82fcd8",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 4,
-            "eventtype": 6,
-            "m_owner": "abd0a35d-1d75-4f64-9d7b-499f5f6b55ec"
-        },
-        {
             "id": "bd3ec293-8111-440a-9301-37fe6590c5b4",
             "modelName": "GMEvent",
             "mvc": "1.0",
@@ -42,6 +32,16 @@
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
+            "m_owner": "abd0a35d-1d75-4f64-9d7b-499f5f6b55ec"
+        },
+        {
+            "id": "98dd8404-9760-4b4e-9386-c499b53617b1",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
             "m_owner": "abd0a35d-1d75-4f64-9d7b-499f5f6b55ec"
         }
     ],

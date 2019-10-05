@@ -6,5 +6,5 @@ if(pressed==true){
 else{
 	subimg=0;
 }
-draw_sprite_ext(spr_button,0,x,y,4,4,subimg,c_white,1);
+draw_sprite_ext(spr_button,subimg,x,y,4,4,0,c_white,1);
 draw_text(x,y,buttonText)
