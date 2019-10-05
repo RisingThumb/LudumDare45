@@ -207,6 +207,14 @@
             }
         },
         {
+            "Key": "77bf0778-986b-4feb-8b33-4ee2ab456e09",
+            "Value": {
+                "id": "27e6cd01-82f5-4545-95e3-536e96ba6da9",
+                "resourcePath": "sprites\\sprDungeon\\sprDungeon.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "79215a70-7bb7-4dd1-8e7e-543fb6c8b1ea",
             "Value": {
                 "id": "88228dab-fe79-47aa-80ee-c69c63356333",
