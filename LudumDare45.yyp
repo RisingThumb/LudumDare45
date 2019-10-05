@@ -103,6 +103,14 @@
             }
         },
         {
+            "Key": "28802b7f-70bf-4e70-a9fe-0f7c60eb2868",
+            "Value": {
+                "id": "c71062aa-57bd-4474-8845-6cc4747f230b",
+                "resourcePath": "sprites\\spr_projectile\\spr_projectile.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "2a022cc1-d681-4881-9731-6f7e38b350a8",
             "Value": {
                 "id": "b4cc29af-4d42-4b0e-9a00-af1e8299aca9",
