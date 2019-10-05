@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "1a672841-4276-41a7-8fa6-2b2eb7d0cb85",
+            "Value": {
+                "id": "5af9ffe6-bee9-4924-8491-47a7609a2c51",
+                "resourcePath": "scripts\\scr_goToCredits\\scr_goToCredits.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "1e147d1e-8fc8-4b52-acb5-da7022677591",
             "Value": {
                 "id": "07fb1bf5-90e8-4930-a454-dc64428a0019",
@@ -191,6 +199,14 @@
             }
         },
         {
+            "Key": "a5f0483a-c707-4143-abba-a48ed7f30673",
+            "Value": {
+                "id": "2e00ce71-9432-4f1b-80ad-104fceabb41c",
+                "resourcePath": "scripts\\scr_goToMenu\\scr_goToMenu.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "41ef013a-abce-43f1-b92e-8a8c1c5c8df9",
@@ -263,6 +279,14 @@
             }
         },
         {
+            "Key": "ee596a8c-3a8c-4f1a-93a4-1f3cb9e556af",
+            "Value": {
+                "id": "22b04517-114f-4e8f-9f02-ea801128899a",
+                "resourcePath": "rooms\\rm_credits\\rm_credits.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
             "Value": {
                 "id": "97030450-2a66-47f6-b58e-534d07cd6bdf",
@@ -272,7 +296,9 @@
         }
     ],
     "script_order": [
-        "1e147d1e-8fc8-4b52-acb5-da7022677591"
+        "1e147d1e-8fc8-4b52-acb5-da7022677591",
+        "1a672841-4276-41a7-8fa6-2b2eb7d0cb85",
+        "a5f0483a-c707-4143-abba-a48ed7f30673"
     ],
     "tutorial": ""
 }
