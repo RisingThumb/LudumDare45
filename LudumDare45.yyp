@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "5cad6069-ef14-4161-bb6b-30254a89b601",
+            "Value": {
+                "id": "862d07f5-7a2e-486f-aa27-e0fbc3d4c6bb",
+                "resourcePath": "scripts\\scr_goToGame\\scr_goToGame.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "5f71bc26-316c-45c7-8787-d46f5431fa87",
             "Value": {
                 "id": "a600f283-c295-4dbb-9a28-2681907e1889",
@@ -172,6 +180,14 @@
                 "id": "f48fd563-769b-422c-8df1-825f686b8b88",
                 "resourcePath": "sprites\\sprSlimeIdleUp\\sprSlimeIdleUp.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8236ef15-9749-4f07-b397-e15360f775b2",
+            "Value": {
+                "id": "d3087ae3-a791-4b0b-94b9-24b71471804b",
+                "resourcePath": "rooms\\rm_game\\rm_game.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -298,7 +314,8 @@
     "script_order": [
         "1e147d1e-8fc8-4b52-acb5-da7022677591",
         "1a672841-4276-41a7-8fa6-2b2eb7d0cb85",
-        "a5f0483a-c707-4143-abba-a48ed7f30673"
+        "a5f0483a-c707-4143-abba-a48ed7f30673",
+        "5cad6069-ef14-4161-bb6b-30254a89b601"
     ],
     "tutorial": ""
 }
