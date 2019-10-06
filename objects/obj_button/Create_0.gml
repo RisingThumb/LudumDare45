@@ -3,3 +3,4 @@
 pressed=false;
 image_xscale=4;
 image_yscale=4;
+sprite_index=spriteUsed;

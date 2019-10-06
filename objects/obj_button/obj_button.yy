@@ -89,6 +89,20 @@
             "value": "\"Test\"",
             "varName": "buttonText",
             "varType": 2
+        },
+        {
+            "id": "3a6cf551-3b20-4d1e-a713-2512ee9986e9",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "spr_button",
+            "varName": "spriteUsed",
+            "varType": 5
         }
     ],
     "solid": false,
